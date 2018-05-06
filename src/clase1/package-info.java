@@ -5,4 +5,4 @@
  * @author Romi
  *
  */
-package class1;
+package clase1;
